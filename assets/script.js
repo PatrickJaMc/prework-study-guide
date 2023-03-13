@@ -39,6 +39,6 @@ console.log("Here are the topics we learned through Prework:");
 
 listTopics()
 
-console.log("What do you want to study first?");
+console.log("What would you like to study first?");
 
 selectTopic()
